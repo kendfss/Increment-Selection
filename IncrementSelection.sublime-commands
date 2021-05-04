@@ -1,0 +1,3 @@
+[
+    { "caption": "Add some number to the one(s) you have currently selected", "command": "increment_selection" },
+]
